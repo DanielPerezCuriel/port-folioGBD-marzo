@@ -2,7 +2,7 @@
 #### En este port folio trataremos acerca de los temarios dados durante la 2º evalucacion
 
 
-### Resumen de los temas tratados.
+### Resumen de los temas tratados a lo largo de la 2º Evalucion.
 
 ·
 ##### Tema 6 Consultas basicas de SQL
